@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+.codenation-background {
+    padding: 115px;
+    background-color: blue;
+    background-image: url("https://codenation.org/wp-content/uploads/2018/10/cn_logo_nospace-1.png");
+
+
+}
